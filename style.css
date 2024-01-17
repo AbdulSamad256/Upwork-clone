@@ -1,0 +1,100 @@
+h2{
+   display: inline-block;
+   color:rgb(30, 136, 30);
+   word-spacing: 3em;
+   
+}
+p{
+    display: inline-block;
+    padding-left:10px;
+    font-weight:500;
+    font-size:18px ;
+
+}
+.s{
+    border: none;
+    padding-left: 20px;
+    font-size:15px;
+    font-weight:500;
+
+}
+#input{
+        display: inline-block;
+        padding-left: 300px;
+        padding-right:20px; 
+        margin-left: 0px;
+        word-spacing: 4em;
+        
+
+
+}
+input{
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+#login{
+    display: inline-block;
+    word-spacing: 3em;
+}
+.bt{
+    color:whitesmoke ;
+    background-color: rgb(30, 136, 30);
+    width: 100px;
+    height: 40px;
+    letter-spacing: 0.1em;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+}
+.bt:hover{
+    background-color:rgb(50, 141, 50);
+}
+
+.headings{
+    display: inline-block;
+    font-weight:100;
+    font-family:  sans-serif;
+    word-spacing: 0.5em;
+    letter-spacing: 0.1em;
+    padding: 5px;
+
+}
+#more{
+    border: none;
+    font-size: 20px;
+
+}
+.body{
+    margin-left :70px ;
+    padding-top: 5px;
+
+
+}
+h1{
+    font-size: 100px;
+    color: rgb(30, 136, 30);
+}
+#paragraph{
+    font-size: 30px;
+    color: black;
+}
+#btn{
+    background-color: rgb(30, 136, 30);
+    width: 150px;
+    height: 50px;
+    letter-spacing: 0.1em;
+    font-size: 20px;
+    color: whitesmoke;
+    border: none;
+    border-radius: 25px;
+}
+#image{
+    padding-left: 350px;
+    width: 25%;
+    position:absolute;
+    height: auto;
+
+
+}
